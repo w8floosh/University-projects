@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="23 1 1623 803" width="1600px" height="802px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+   <line x1="315" y1="305" x2="305" y2="305" style="stroke:#b0b;stroke-width:1;"/>
+   <line x1="154" y1="418" x2="144" y2="418" style="stroke:#b0b;stroke-width:1;"/>
+   <line x1="305" y1="305" x2="154" y2="418" style="stroke:#b0b;stroke-width:1;"/>
+   <line x1="307.5" y1="305" x2="311.03553390593" y2="308.53553390593" style="stroke:#b0b;stroke-width:2;"/>
+   <line x1="307.5" y1="305" x2="311.03553390593" y2="301.46446609407" style="stroke:#b0b;stroke-width:2;"/>
+   <line x1="149" y1="418" x2="152.53553390593" y2="421.53553390593" style="stroke:#b0b;stroke-width:2;"/>
+   <line x1="149" y1="418" x2="152.53553390593" y2="414.46446609407" style="stroke:#b0b;stroke-width:2;"/>
+   <line x1="292" y1="450" x2="282" y2="450" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="154" y1="418" x2="144" y2="418" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="282" y1="450" x2="154" y2="418" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="284.5" y1="450" x2="288.03553390593" y2="453.53553390593" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="284.5" y1="450" x2="288.03553390593" y2="446.46446609407" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="149" y1="418" x2="152.53553390593" y2="421.53553390593" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="149" y1="418" x2="152.53553390593" y2="414.46446609407" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="919" y1="375" x2="909" y2="375" style="stroke:#333;stroke-width:1;"/>
+   <line x1="717" y1="278" x2="707" y2="278" style="stroke:#333;stroke-width:1;"/>
+   <line x1="909" y1="375" x2="717" y2="278" style="stroke:#333;stroke-width:1;"/>
+   <line x1="911.5" y1="375" x2="915.03553390593" y2="378.53553390593" style="stroke:#333;stroke-width:2;"/>
+   <line x1="911.5" y1="375" x2="915.03553390593" y2="371.46446609407" style="stroke:#333;stroke-width:2;"/>
+   <line x1="712" y1="278" x2="715.53553390593" y2="281.53553390593" style="stroke:#333;stroke-width:2;"/>
+   <line x1="712" y1="278" x2="715.53553390593" y2="274.46446609407" style="stroke:#333;stroke-width:2;"/>
+   <line x1="680" y1="598" x2="690" y2="598" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="1258" y1="676" x2="1268" y2="676" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="690" y1="598" x2="1258" y2="676" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="687.5" y1="598" x2="683.96446609407" y2="601.53553390593" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="687.5" y1="598" x2="683.96446609407" y2="594.46446609407" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="1263" y1="676" x2="1259.4644660941" y2="679.53553390593" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="1263" y1="676" x2="1259.4644660941" y2="672.46446609407" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="585" y1="638" x2="575" y2="638" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="417" y1="450" x2="407" y2="450" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="575" y1="638" x2="417" y2="450" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="577.5" y1="638" x2="581.03553390593" y2="641.53553390593" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="577.5" y1="638" x2="581.03553390593" y2="634.46446609407" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="412" y1="450" x2="415.53553390593" y2="453.53553390593" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="412" y1="450" x2="415.53553390593" y2="446.46446609407" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="585" y1="658" x2="575" y2="658" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="417" y1="470" x2="407" y2="470" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="575" y1="658" x2="417" y2="470" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="577.5" y1="658" x2="581.03553390593" y2="661.53553390593" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="577.5" y1="658" x2="581.03553390593" y2="654.46446609407" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="412" y1="470" x2="415.53553390593" y2="473.53553390593" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="412" y1="470" x2="415.53553390593" y2="466.46446609407" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="585" y1="678" x2="575" y2="678" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="417" y1="490" x2="407" y2="490" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="575" y1="678" x2="417" y2="490" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="577.5" y1="678" x2="581.03553390593" y2="681.53553390593" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="577.5" y1="678" x2="581.03553390593" y2="674.46446609407" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="412" y1="490" x2="415.53553390593" y2="493.53553390593" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="412" y1="490" x2="415.53553390593" y2="486.46446609407" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="585" y1="718" x2="575" y2="718" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="559" y1="278" x2="569" y2="278" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="575" y1="718" x2="559" y2="278" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="577.5" y1="718" x2="581.03553390593" y2="721.53553390593" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="577.5" y1="718" x2="581.03553390593" y2="714.46446609407" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="564" y1="278" x2="560.46446609407" y2="281.53553390593" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="564" y1="278" x2="560.46446609407" y2="274.46446609407" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="585" y1="738" x2="575" y2="738" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="559" y1="278" x2="569" y2="278" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="575" y1="738" x2="559" y2="278" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="577.5" y1="738" x2="581.03553390593" y2="741.53553390593" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="577.5" y1="738" x2="581.03553390593" y2="734.46446609407" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="564" y1="278" x2="560.46446609407" y2="281.53553390593" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="564" y1="278" x2="560.46446609407" y2="274.46446609407" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="569" y1="378" x2="559" y2="378" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="417" y1="450" x2="407" y2="450" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="559" y1="378" x2="417" y2="450" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="561.5" y1="378" x2="565.03553390593" y2="381.53553390593" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="561.5" y1="378" x2="565.03553390593" y2="374.46446609407" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="412" y1="450" x2="415.53553390593" y2="453.53553390593" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="412" y1="450" x2="415.53553390593" y2="446.46446609407" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="569" y1="398" x2="559" y2="398" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="417" y1="470" x2="407" y2="470" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="559" y1="398" x2="417" y2="470" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="561.5" y1="398" x2="565.03553390593" y2="401.53553390593" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="561.5" y1="398" x2="565.03553390593" y2="394.46446609407" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="412" y1="470" x2="415.53553390593" y2="473.53553390593" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="412" y1="470" x2="415.53553390593" y2="466.46446609407" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="1268" y1="716" x2="1258" y2="716" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="717" y1="278" x2="707" y2="278" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="1258" y1="716" x2="717" y2="278" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="1260.5" y1="716" x2="1264.0355339059" y2="719.53553390593" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="1260.5" y1="716" x2="1264.0355339059" y2="712.46446609407" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="712" y1="278" x2="715.53553390593" y2="281.53553390593" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="712" y1="278" x2="715.53553390593" y2="274.46446609407" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="972" y1="660" x2="962" y2="660" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="690" y1="578" x2="680" y2="578" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="962" y1="660" x2="690" y2="578" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="964.5" y1="660" x2="968.03553390593" y2="663.53553390593" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="964.5" y1="660" x2="968.03553390593" y2="656.46446609407" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="685" y1="578" x2="688.53553390593" y2="581.53553390593" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="685" y1="578" x2="688.53553390593" y2="574.46446609407" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="1096" y1="680" x2="1106" y2="680" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="1075" y1="235" x2="1065" y2="235" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="1106" y1="680" x2="1075" y2="235" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="1103.5" y1="680" x2="1099.9644660941" y2="683.53553390593" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="1103.5" y1="680" x2="1099.9644660941" y2="676.46446609407" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="1070" y1="235" x2="1073.5355339059" y2="238.53553390593" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="1070" y1="235" x2="1073.5355339059" y2="231.46446609407" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="156" y1="67" x2="166" y2="67" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="305" y1="285" x2="315" y2="285" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="166" y1="67" x2="305" y2="285" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="163.5" y1="67" x2="159.96446609407" y2="70.535533905933" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="163.5" y1="67" x2="159.96446609407" y2="63.464466094067" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="310" y1="285" x2="306.46446609407" y2="288.53553390593" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="310" y1="285" x2="306.46446609407" y2="281.46446609407" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="156" y1="107" x2="166" y2="107" style="stroke:#333;stroke-width:1;"/>
+   <line x1="559" y1="278" x2="569" y2="278" style="stroke:#333;stroke-width:1;"/>
+   <line x1="166" y1="107" x2="559" y2="278" style="stroke:#333;stroke-width:1;"/>
+   <line x1="163.5" y1="107" x2="159.96446609407" y2="110.53553390593" style="stroke:#333;stroke-width:2;"/>
+   <line x1="163.5" y1="107" x2="159.96446609407" y2="103.46446609407" style="stroke:#333;stroke-width:2;"/>
+   <line x1="564" y1="278" x2="560.46446609407" y2="281.53553390593" style="stroke:#333;stroke-width:2;"/>
+   <line x1="564" y1="278" x2="560.46446609407" y2="274.46446609407" style="stroke:#333;stroke-width:2;"/>
+   <line x1="156" y1="127" x2="166" y2="127" style="stroke:#333;stroke-width:1;"/>
+   <line x1="559" y1="278" x2="569" y2="278" style="stroke:#333;stroke-width:1;"/>
+   <line x1="166" y1="127" x2="559" y2="278" style="stroke:#333;stroke-width:1;"/>
+   <line x1="163.5" y1="127" x2="159.96446609407" y2="130.53553390593" style="stroke:#333;stroke-width:2;"/>
+   <line x1="163.5" y1="127" x2="159.96446609407" y2="123.46446609407" style="stroke:#333;stroke-width:2;"/>
+   <line x1="564" y1="278" x2="560.46446609407" y2="281.53553390593" style="stroke:#333;stroke-width:2;"/>
+   <line x1="564" y1="278" x2="560.46446609407" y2="274.46446609407" style="stroke:#333;stroke-width:2;"/>
+   <line x1="156" y1="147" x2="166" y2="147" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="909" y1="235" x2="919" y2="235" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="166" y1="147" x2="909" y2="235" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="163.5" y1="147" x2="159.96446609407" y2="150.53553390593" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="163.5" y1="147" x2="159.96446609407" y2="143.46446609407" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="914" y1="235" x2="910.46446609407" y2="238.53553390593" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="914" y1="235" x2="910.46446609407" y2="231.46446609407" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="432" y1="46" x2="442" y2="46" style="stroke:#333;stroke-width:1;"/>
+   <line x1="559" y1="278" x2="569" y2="278" style="stroke:#333;stroke-width:1;"/>
+   <line x1="442" y1="46" x2="559" y2="278" style="stroke:#333;stroke-width:1;"/>
+   <line x1="439.5" y1="46" x2="435.96446609407" y2="49.535533905933" style="stroke:#333;stroke-width:2;"/>
+   <line x1="439.5" y1="46" x2="435.96446609407" y2="42.464466094067" style="stroke:#333;stroke-width:2;"/>
+   <line x1="564" y1="278" x2="560.46446609407" y2="281.53553390593" style="stroke:#333;stroke-width:2;"/>
+   <line x1="564" y1="278" x2="560.46446609407" y2="274.46446609407" style="stroke:#333;stroke-width:2;"/>
+   <line x1="294" y1="66" x2="284" y2="66" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="282" y1="450" x2="292" y2="450" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="284" y1="66" x2="282" y2="450" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="286.5" y1="66" x2="290.03553390593" y2="69.535533905933" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="286.5" y1="66" x2="290.03553390593" y2="62.464466094067" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="287" y1="450" x2="283.46446609407" y2="453.53553390593" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="287" y1="450" x2="283.46446609407" y2="446.46446609407" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="294" y1="86" x2="284" y2="86" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="282" y1="470" x2="292" y2="470" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="284" y1="86" x2="282" y2="470" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="286.5" y1="86" x2="290.03553390593" y2="89.535533905933" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="286.5" y1="86" x2="290.03553390593" y2="82.464466094067" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="287" y1="470" x2="283.46446609407" y2="473.53553390593" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="287" y1="470" x2="283.46446609407" y2="466.46446609407" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="294" y1="106" x2="284" y2="106" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="282" y1="490" x2="292" y2="490" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="284" y1="106" x2="282" y2="490" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="286.5" y1="106" x2="290.03553390593" y2="109.53553390593" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="286.5" y1="106" x2="290.03553390593" y2="102.46446609407" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="287" y1="490" x2="283.46446609407" y2="493.53553390593" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="287" y1="490" x2="283.46446609407" y2="486.46446609407" style="stroke:#bbb;stroke-width:2;"/>
+   <rect width="90" height="20" x="1518" y="347" style="fill:#007;stroke:black;"/>
+   <text width="90" height="20" x="1523" y="361" style="fill:#fff;" font-family="Arial" font-size="16px"> assist_totali</text>
+   <rect width="90" height="20" x="1518" y="367" style="fill:none;stroke:black;"/>
+   <text width="90" height="20" x="1523" y="381" style="fill:black;" font-family="Arial" font-size="16px">giocatore</text>
+   <rect width="90" height="20" x="1518" y="387" style="fill:none;stroke:black;"/>
+   <text width="90" height="20" x="1523" y="401" style="fill:black;" font-family="Arial" font-size="16px">assist</text>
+   <rect width="111" height="20" x="315" y="255" style="fill:#007;stroke:black;"/>
+   <text width="111" height="20" x="320" y="269" style="fill:#fff;" font-family="Arial" font-size="16px"> calciomercato</text>
+   <rect width="111" height="20" x="315" y="275" style="fill:#aea;stroke:black;"/>
+   <text width="111" height="20" x="320" y="289" style="fill:black;" font-family="Arial" font-size="16px">id_sessione</text>
+   <rect width="111" height="20" x="315" y="295" style="fill:none;stroke:black;"/>
+   <text width="111" height="20" x="320" y="309" style="fill:black;" font-family="Arial" font-size="16px">nazione</text>
+   <rect width="111" height="20" x="315" y="315" style="fill:none;stroke:black;"/>
+   <text width="111" height="20" x="320" y="329" style="fill:black;" font-family="Arial" font-size="16px">data_inizio</text>
+   <rect width="111" height="20" x="315" y="335" style="fill:none;stroke:black;"/>
+   <text width="111" height="20" x="320" y="349" style="fill:black;" font-family="Arial" font-size="16px">data_fine</text>
+   <rect width="106" height="20" x="38" y="388" style="fill:#007;stroke:black;"/>
+   <text width="106" height="20" x="43" y="402" style="fill:#fff;" font-family="Arial" font-size="16px"> campionato</text>
+   <rect width="106" height="20" x="38" y="408" style="fill:none;stroke:black;"/>
+   <text width="106" height="20" x="43" y="422" style="fill:black;" font-family="Arial" font-size="16px">nazione</text>
+   <rect width="106" height="20" x="38" y="428" style="fill:none;stroke:black;"/>
+   <text width="106" height="20" x="43" y="442" style="fill:black;" font-family="Arial" font-size="16px">min_giocatori</text>
+   <rect width="106" height="20" x="38" y="448" style="fill:none;stroke:black;"/>
+   <text width="106" height="20" x="43" y="462" style="fill:black;" font-family="Arial" font-size="16px">max_giocatori</text>
+   <rect width="115" height="20" x="292" y="420" style="fill:#007;stroke:black;"/>
+   <text width="115" height="20" x="297" y="434" style="fill:#fff;" font-family="Arial" font-size="16px"> divisione</text>
+   <rect width="115" height="20" x="292" y="440" style="fill:none;stroke:black;"/>
+   <text width="115" height="20" x="297" y="454" style="fill:black;" font-family="Arial" font-size="16px">nazione</text>
+   <rect width="115" height="20" x="292" y="460" style="fill:#aea;stroke:black;"/>
+   <text width="115" height="20" x="297" y="474" style="fill:black;" font-family="Arial" font-size="16px">id_divisione</text>
+   <rect width="115" height="20" x="292" y="480" style="fill:#aea;stroke:black;"/>
+   <text width="115" height="20" x="297" y="494" style="fill:black;" font-family="Arial" font-size="16px">inizio_stagione</text>
+   <rect width="115" height="20" x="292" y="500" style="fill:none;stroke:black;"/>
+   <text width="115" height="20" x="297" y="514" style="fill:black;" font-family="Arial" font-size="16px">fine_stagione</text>
+   <rect width="115" height="20" x="292" y="520" style="fill:none;stroke:black;"/>
+   <text width="115" height="20" x="297" y="534" style="fill:black;" font-family="Arial" font-size="16px">nome</text>
+   <rect width="115" height="20" x="292" y="540" style="fill:none;stroke:black;"/>
+   <text width="115" height="20" x="297" y="554" style="fill:black;" font-family="Arial" font-size="16px">n_partecipanti</text>
+   <rect width="115" height="20" x="292" y="560" style="fill:none;stroke:black;"/>
+   <text width="115" height="20" x="297" y="574" style="fill:black;" font-family="Arial" font-size="16px">n_promozioni</text>
+   <rect width="115" height="20" x="292" y="580" style="fill:none;stroke:black;"/>
+   <text width="115" height="20" x="297" y="594" style="fill:black;" font-family="Arial" font-size="16px">n_retrocessioni</text>
+   <rect width="115" height="20" x="292" y="600" style="fill:none;stroke:black;"/>
+   <text width="115" height="20" x="297" y="614" style="fill:black;" font-family="Arial" font-size="16px">partite_giocate</text>
+   <rect width="115" height="20" x="292" y="620" style="fill:none;stroke:black;"/>
+   <text width="115" height="20" x="297" y="634" style="fill:black;" font-family="Arial" font-size="16px">partite_totali</text>
+   <rect width="146" height="20" x="919" y="205" style="fill:#007;stroke:black;"/>
+   <text width="146" height="20" x="924" y="219" style="fill:#fff;" font-family="Arial" font-size="16px"> giocatore</text>
+   <rect width="146" height="20" x="919" y="225" style="fill:#aea;stroke:black;"/>
+   <text width="146" height="20" x="924" y="239" style="fill:black;" font-family="Arial" font-size="16px">matricola_giocatore</text>
+   <rect width="146" height="20" x="919" y="245" style="fill:none;stroke:black;"/>
+   <text width="146" height="20" x="924" y="259" style="fill:black;" font-family="Arial" font-size="16px">cognome</text>
+   <rect width="146" height="20" x="919" y="265" style="fill:none;stroke:black;"/>
+   <text width="146" height="20" x="924" y="279" style="fill:black;" font-family="Arial" font-size="16px">nome</text>
+   <rect width="146" height="20" x="919" y="285" style="fill:none;stroke:black;"/>
+   <text width="146" height="20" x="924" y="299" style="fill:black;" font-family="Arial" font-size="16px">età</text>
+   <rect width="146" height="20" x="919" y="305" style="fill:none;stroke:black;"/>
+   <text width="146" height="20" x="924" y="319" style="fill:black;" font-family="Arial" font-size="16px">altezza</text>
+   <rect width="146" height="20" x="919" y="325" style="fill:none;stroke:black;"/>
+   <text width="146" height="20" x="924" y="339" style="fill:black;" font-family="Arial" font-size="16px">ruolo</text>
+   <rect width="146" height="20" x="919" y="345" style="fill:none;stroke:black;"/>
+   <text width="146" height="20" x="924" y="359" style="fill:black;" font-family="Arial" font-size="16px">nazionalità</text>
+   <rect width="146" height="20" x="919" y="365" style="fill:none;stroke:black;"/>
+   <text width="146" height="20" x="924" y="379" style="fill:black;" font-family="Arial" font-size="16px">squadra</text>
+   <rect width="146" height="20" x="919" y="385" style="fill:none;stroke:black;"/>
+   <text width="146" height="20" x="924" y="399" style="fill:black;" font-family="Arial" font-size="16px">piede_preferito</text>
+   <rect width="146" height="20" x="919" y="405" style="fill:none;stroke:black;"/>
+   <text width="146" height="20" x="924" y="419" style="fill:black;" font-family="Arial" font-size="16px">espulsioni</text>
+   <rect width="146" height="20" x="919" y="425" style="fill:none;stroke:black;"/>
+   <text width="146" height="20" x="924" y="439" style="fill:black;" font-family="Arial" font-size="16px">ammonizioni</text>
+   <rect width="146" height="20" x="919" y="445" style="fill:none;stroke:black;"/>
+   <text width="146" height="20" x="924" y="459" style="fill:black;" font-family="Arial" font-size="16px">gol</text>
+   <rect width="146" height="20" x="919" y="465" style="fill:none;stroke:black;"/>
+   <text width="146" height="20" x="924" y="479" style="fill:black;" font-family="Arial" font-size="16px">assist</text>
+   <rect width="146" height="20" x="919" y="485" style="fill:none;stroke:black;"/>
+   <text width="146" height="20" x="924" y="499" style="fill:black;" font-family="Arial" font-size="16px">valore</text>
+   <rect width="79" height="20" x="1518" y="240" style="fill:#007;stroke:black;"/>
+   <text width="79" height="20" x="1523" y="254" style="fill:#fff;" font-family="Arial" font-size="16px"> gol_totali</text>
+   <rect width="79" height="20" x="1518" y="260" style="fill:none;stroke:black;"/>
+   <text width="79" height="20" x="1523" y="274" style="fill:black;" font-family="Arial" font-size="16px">giocatore</text>
+   <rect width="79" height="20" x="1518" y="280" style="fill:none;stroke:black;"/>
+   <text width="79" height="20" x="1523" y="294" style="fill:black;" font-family="Arial" font-size="16px">gol</text>
+   <rect width="79" height="20" x="1518" y="300" style="fill:none;stroke:black;"/>
+   <text width="79" height="20" x="1523" y="314" style="fill:black;" font-family="Arial" font-size="16px">n_stagioni</text>
+   <rect width="95" height="20" x="585" y="548" style="fill:#007;stroke:black;"/>
+   <text width="95" height="20" x="590" y="562" style="fill:#fff;" font-family="Arial" font-size="16px"> partita</text>
+   <rect width="95" height="20" x="585" y="568" style="fill:#aea;stroke:black;"/>
+   <text width="95" height="20" x="590" y="582" style="fill:black;" font-family="Arial" font-size="16px">id_partita</text>
+   <rect width="95" height="20" x="585" y="588" style="fill:none;stroke:black;"/>
+   <text width="95" height="20" x="590" y="602" style="fill:black;" font-family="Arial" font-size="16px">stadio</text>
+   <rect width="95" height="20" x="585" y="608" style="fill:none;stroke:black;"/>
+   <text width="95" height="20" x="590" y="622" style="fill:black;" font-family="Arial" font-size="16px">data</text>
+   <rect width="95" height="20" x="585" y="628" style="fill:none;stroke:black;"/>
+   <text width="95" height="20" x="590" y="642" style="fill:black;" font-family="Arial" font-size="16px">nazione</text>
+   <rect width="95" height="20" x="585" y="648" style="fill:none;stroke:black;"/>
+   <text width="95" height="20" x="590" y="662" style="fill:black;" font-family="Arial" font-size="16px">divisione</text>
+   <rect width="95" height="20" x="585" y="668" style="fill:none;stroke:black;"/>
+   <text width="95" height="20" x="590" y="682" style="fill:black;" font-family="Arial" font-size="16px">stagione</text>
+   <rect width="95" height="20" x="585" y="688" style="fill:none;stroke:black;"/>
+   <text width="95" height="20" x="590" y="702" style="fill:black;" font-family="Arial" font-size="16px">giornata</text>
+   <rect width="95" height="20" x="585" y="708" style="fill:none;stroke:black;"/>
+   <text width="95" height="20" x="590" y="722" style="fill:black;" font-family="Arial" font-size="16px">casa</text>
+   <rect width="95" height="20" x="585" y="728" style="fill:none;stroke:black;"/>
+   <text width="95" height="20" x="590" y="742" style="fill:black;" font-family="Arial" font-size="16px">trasferta</text>
+   <rect width="95" height="20" x="585" y="748" style="fill:none;stroke:black;"/>
+   <text width="95" height="20" x="590" y="762" style="fill:black;" font-family="Arial" font-size="16px">gol_casa</text>
+   <rect width="95" height="20" x="585" y="768" style="fill:none;stroke:black;"/>
+   <text width="95" height="20" x="590" y="782" style="fill:black;" font-family="Arial" font-size="16px">gol_trasferta</text>
+   <rect width="138" height="20" x="569" y="248" style="fill:#007;stroke:black;"/>
+   <text width="138" height="20" x="574" y="262" style="fill:#fff;" font-family="Arial" font-size="16px"> squadra</text>
+   <rect width="138" height="20" x="569" y="268" style="fill:#aea;stroke:black;"/>
+   <text width="138" height="20" x="574" y="282" style="fill:black;" font-family="Arial" font-size="16px">matricola_squadra</text>
+   <rect width="138" height="20" x="569" y="288" style="fill:none;stroke:black;"/>
+   <text width="138" height="20" x="574" y="302" style="fill:black;" font-family="Arial" font-size="16px">nome</text>
+   <rect width="138" height="20" x="569" y="308" style="fill:none;stroke:black;"/>
+   <text width="138" height="20" x="574" y="322" style="fill:black;" font-family="Arial" font-size="16px">città</text>
+   <rect width="138" height="20" x="569" y="328" style="fill:none;stroke:black;"/>
+   <text width="138" height="20" x="574" y="342" style="fill:black;" font-family="Arial" font-size="16px">colori</text>
+   <rect width="138" height="20" x="569" y="348" style="fill:none;stroke:black;"/>
+   <text width="138" height="20" x="574" y="362" style="fill:black;" font-family="Arial" font-size="16px">allenatore</text>
+   <rect width="138" height="20" x="569" y="368" style="fill:none;stroke:black;"/>
+   <text width="138" height="20" x="574" y="382" style="fill:black;" font-family="Arial" font-size="16px">nazione</text>
+   <rect width="138" height="20" x="569" y="388" style="fill:none;stroke:black;"/>
+   <text width="138" height="20" x="574" y="402" style="fill:black;" font-family="Arial" font-size="16px">divisione</text>
+   <rect width="138" height="20" x="569" y="408" style="fill:none;stroke:black;"/>
+   <text width="138" height="20" x="574" y="422" style="fill:black;" font-family="Arial" font-size="16px">punti</text>
+   <rect width="138" height="20" x="569" y="428" style="fill:none;stroke:black;"/>
+   <text width="138" height="20" x="574" y="442" style="fill:black;" font-family="Arial" font-size="16px">gol_fatti</text>
+   <rect width="138" height="20" x="569" y="448" style="fill:none;stroke:black;"/>
+   <text width="138" height="20" x="574" y="462" style="fill:black;" font-family="Arial" font-size="16px">gol_subiti</text>
+   <rect width="74" height="20" x="1268" y="646" style="fill:#007;stroke:black;"/>
+   <text width="74" height="20" x="1273" y="660" style="fill:#fff;" font-family="Arial" font-size="16px"> stadio</text>
+   <rect width="74" height="20" x="1268" y="666" style="fill:#aea;stroke:black;"/>
+   <text width="74" height="20" x="1273" y="680" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="74" height="20" x="1268" y="686" style="fill:none;stroke:black;"/>
+   <text width="74" height="20" x="1273" y="700" style="fill:black;" font-family="Arial" font-size="16px">nome</text>
+   <rect width="74" height="20" x="1268" y="706" style="fill:none;stroke:black;"/>
+   <text width="74" height="20" x="1273" y="720" style="fill:black;" font-family="Arial" font-size="16px">squadra</text>
+   <rect width="74" height="20" x="1268" y="726" style="fill:none;stroke:black;"/>
+   <text width="74" height="20" x="1273" y="740" style="fill:black;" font-family="Arial" font-size="16px">capienza</text>
+   <rect width="74" height="20" x="1268" y="746" style="fill:none;stroke:black;"/>
+   <text width="74" height="20" x="1273" y="760" style="fill:black;" font-family="Arial" font-size="16px">città</text>
+   <rect width="124" height="20" x="972" y="630" style="fill:#007;stroke:black;"/>
+   <text width="124" height="20" x="977" y="644" style="fill:#fff;" font-family="Arial" font-size="16px"> statistichepartita</text>
+   <rect width="124" height="20" x="972" y="650" style="fill:#aea;stroke:black;"/>
+   <text width="124" height="20" x="977" y="664" style="fill:black;" font-family="Arial" font-size="16px">id_partita</text>
+   <rect width="124" height="20" x="972" y="670" style="fill:#aea;stroke:black;"/>
+   <text width="124" height="20" x="977" y="684" style="fill:black;" font-family="Arial" font-size="16px">giocatore</text>
+   <rect width="124" height="20" x="972" y="690" style="fill:none;stroke:black;"/>
+   <text width="124" height="20" x="977" y="704" style="fill:black;" font-family="Arial" font-size="16px">tipo_statistica</text>
+   <rect width="124" height="20" x="972" y="710" style="fill:none;stroke:black;"/>
+   <text width="124" height="20" x="977" y="724" style="fill:black;" font-family="Arial" font-size="16px">quantità</text>
+   <rect width="125" height="20" x="1264" y="488" style="fill:#007;stroke:black;"/>
+   <text width="125" height="20" x="1269" y="502" style="fill:#fff;" font-family="Arial" font-size="16px"> storicoassistmen</text>
+   <rect width="125" height="20" x="1264" y="508" style="fill:none;stroke:black;"/>
+   <text width="125" height="20" x="1269" y="522" style="fill:black;" font-family="Arial" font-size="16px">nazione</text>
+   <rect width="125" height="20" x="1264" y="528" style="fill:#aea;stroke:black;"/>
+   <text width="125" height="20" x="1269" y="542" style="fill:black;" font-family="Arial" font-size="16px">divisione</text>
+   <rect width="125" height="20" x="1264" y="548" style="fill:#aea;stroke:black;"/>
+   <text width="125" height="20" x="1269" y="562" style="fill:black;" font-family="Arial" font-size="16px">stagione</text>
+   <rect width="125" height="20" x="1264" y="568" style="fill:#aea;stroke:black;"/>
+   <text width="125" height="20" x="1269" y="582" style="fill:black;" font-family="Arial" font-size="16px">giocatore</text>
+   <rect width="125" height="20" x="1264" y="588" style="fill:none;stroke:black;"/>
+   <text width="125" height="20" x="1269" y="602" style="fill:black;" font-family="Arial" font-size="16px">n_assist</text>
+   <rect width="116" height="20" x="1261" y="167" style="fill:#007;stroke:black;"/>
+   <text width="116" height="20" x="1266" y="181" style="fill:#fff;" font-family="Arial" font-size="16px"> storicodivisioni</text>
+   <rect width="116" height="20" x="1261" y="187" style="fill:none;stroke:black;"/>
+   <text width="116" height="20" x="1266" y="201" style="fill:black;" font-family="Arial" font-size="16px">nazione</text>
+   <rect width="116" height="20" x="1261" y="207" style="fill:#aea;stroke:black;"/>
+   <text width="116" height="20" x="1266" y="221" style="fill:black;" font-family="Arial" font-size="16px">divisione</text>
+   <rect width="116" height="20" x="1261" y="227" style="fill:#aea;stroke:black;"/>
+   <text width="116" height="20" x="1266" y="241" style="fill:black;" font-family="Arial" font-size="16px">stagione</text>
+   <rect width="116" height="20" x="1261" y="247" style="fill:#aea;stroke:black;"/>
+   <text width="116" height="20" x="1266" y="261" style="fill:black;" font-family="Arial" font-size="16px">squadra</text>
+   <rect width="116" height="20" x="1261" y="267" style="fill:none;stroke:black;"/>
+   <text width="116" height="20" x="1266" y="281" style="fill:black;" font-family="Arial" font-size="16px">punti</text>
+   <rect width="116" height="20" x="1261" y="287" style="fill:none;stroke:black;"/>
+   <text width="116" height="20" x="1266" y="301" style="fill:black;" font-family="Arial" font-size="16px">gol_fatti</text>
+   <rect width="116" height="20" x="1261" y="307" style="fill:none;stroke:black;"/>
+   <text width="116" height="20" x="1266" y="321" style="fill:black;" font-family="Arial" font-size="16px">gol_subiti</text>
+   <rect width="125" height="20" x="1264" y="349" style="fill:#007;stroke:black;"/>
+   <text width="125" height="20" x="1269" y="363" style="fill:#fff;" font-family="Arial" font-size="16px"> storicomarcatori</text>
+   <rect width="125" height="20" x="1264" y="369" style="fill:none;stroke:black;"/>
+   <text width="125" height="20" x="1269" y="383" style="fill:black;" font-family="Arial" font-size="16px">nazione</text>
+   <rect width="125" height="20" x="1264" y="389" style="fill:#aea;stroke:black;"/>
+   <text width="125" height="20" x="1269" y="403" style="fill:black;" font-family="Arial" font-size="16px">divisione</text>
+   <rect width="125" height="20" x="1264" y="409" style="fill:#aea;stroke:black;"/>
+   <text width="125" height="20" x="1269" y="423" style="fill:black;" font-family="Arial" font-size="16px">stagione</text>
+   <rect width="125" height="20" x="1264" y="429" style="fill:#aea;stroke:black;"/>
+   <text width="125" height="20" x="1269" y="443" style="fill:black;" font-family="Arial" font-size="16px">giocatore</text>
+   <rect width="125" height="20" x="1264" y="449" style="fill:none;stroke:black;"/>
+   <text width="125" height="20" x="1269" y="463" style="fill:black;" font-family="Arial" font-size="16px">n_gol</text>
+   <rect width="105" height="20" x="51" y="17" style="fill:#007;stroke:black;"/>
+   <text width="105" height="20" x="56" y="31" style="fill:#fff;" font-family="Arial" font-size="16px"> trasferimento</text>
+   <rect width="105" height="20" x="51" y="37" style="fill:#aea;stroke:black;"/>
+   <text width="105" height="20" x="56" y="51" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="105" height="20" x="51" y="57" style="fill:none;stroke:black;"/>
+   <text width="105" height="20" x="56" y="71" style="fill:black;" font-family="Arial" font-size="16px">id_sessione</text>
+   <rect width="105" height="20" x="51" y="77" style="fill:none;stroke:black;"/>
+   <text width="105" height="20" x="56" y="91" style="fill:black;" font-family="Arial" font-size="16px">data</text>
+   <rect width="105" height="20" x="51" y="97" style="fill:none;stroke:black;"/>
+   <text width="105" height="20" x="56" y="111" style="fill:black;" font-family="Arial" font-size="16px">proprietario</text>
+   <rect width="105" height="20" x="51" y="117" style="fill:none;stroke:black;"/>
+   <text width="105" height="20" x="56" y="131" style="fill:black;" font-family="Arial" font-size="16px">acquirente</text>
+   <rect width="105" height="20" x="51" y="137" style="fill:none;stroke:black;"/>
+   <text width="105" height="20" x="56" y="151" style="fill:black;" font-family="Arial" font-size="16px">giocatore</text>
+   <rect width="105" height="20" x="51" y="157" style="fill:none;stroke:black;"/>
+   <text width="105" height="20" x="56" y="171" style="fill:black;" font-family="Arial" font-size="16px">valore</text>
+   <rect width="138" height="20" x="294" y="16" style="fill:#007;stroke:black;"/>
+   <text width="138" height="20" x="299" y="30" style="fill:#fff;" font-family="Arial" font-size="16px"> trofei</text>
+   <rect width="138" height="20" x="294" y="36" style="fill:#aea;stroke:black;"/>
+   <text width="138" height="20" x="299" y="50" style="fill:black;" font-family="Arial" font-size="16px">matricola_squadra</text>
+   <rect width="138" height="20" x="294" y="56" style="fill:none;stroke:black;"/>
+   <text width="138" height="20" x="299" y="70" style="fill:black;" font-family="Arial" font-size="16px">nazione</text>
+   <rect width="138" height="20" x="294" y="76" style="fill:#aea;stroke:black;"/>
+   <text width="138" height="20" x="299" y="90" style="fill:black;" font-family="Arial" font-size="16px">trofeo</text>
+   <rect width="138" height="20" x="294" y="96" style="fill:#aea;stroke:black;"/>
+   <text width="138" height="20" x="299" y="110" style="fill:black;" font-family="Arial" font-size="16px">stagione</text>
+</svg>
